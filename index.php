@@ -21,6 +21,10 @@
 			
 			<?php } ?>
 		</ul>
+		
+		<h2>Ola todo mundo</h2>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quos molestias iure non doloribus blanditiis nemo laboriosam dicta inventore, enim ut quis vel natus sequi amet, distinctio officia praesentium corporis?</p>
+
 	</body>
 </html>
 
